@@ -22,7 +22,7 @@ tenure = st.number_input("Tenure", 0)
 monthly_charges = st.number_input("Monthly Charges", 0)
 
 if st.button("Predict"):
-    gender_val = 1 if gender == "Male" else 0
+    gender_val = 1 if gender == "Female" else 0
     X = np.array([[age, gender_val, tenure, monthly_charges]])
     X_scaled = scaler.transform(X)
 
