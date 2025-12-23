@@ -40,7 +40,7 @@ churn-prediction-model/
 └── README.md                # Project documentation
 
 ## Screenshot 
-https://churn--modelfuture-ml-02-9zhmsn48vlhzm8dlqhmmky.streamlit.app
+![Uploading Screenshot 2025-12-22 012518.png…]()
 
 ## 🖥️ App Interface
 * Enter:
