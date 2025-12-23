@@ -40,7 +40,8 @@ churn-prediction-model/
 └── README.md                # Project documentation
 
 ## Screenshot 
-![Uploading Screenshot 2025-12-22 012518.png…]()
+<img width="861" height="589" alt="image" src="https://github.com/user-attachments/assets/285ba8e4-a2b5-47b2-b5ff-21a793b2b598" />
+
 
 ## 🖥️ App Interface
 * Enter:
