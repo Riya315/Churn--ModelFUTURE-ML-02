@@ -4,8 +4,7 @@ A machine learning–based **Customer Churn Prediction Web App** built using **P
 The app predicts whether a customer is likely to **churn (Yes/No)** based on demographic and service-related inputs.
 
 ##🚀 Live Demo 
- Local URL: http://localhost:8501
-  Network URL: http://192.168.29.247:8501
+https://churn--modelfuture-ml-02-9zhmsn48vlhzm8dlqhmmky.streamlit.app
 
 ## 🚀 Features
 
@@ -40,8 +39,10 @@ churn-prediction-model/
 ├── requirements.txt         # Project dependencies
 └── README.md                # Project documentation
 
-## 🖥️ App Interface
+## Screenshot 
+https://churn--modelfuture-ml-02-9zhmsn48vlhzm8dlqhmmky.streamlit.app
 
+## 🖥️ App Interface
 * Enter:
 
   * Age
